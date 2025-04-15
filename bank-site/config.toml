@@ -1,0 +1,11 @@
+baseURL = "https://your-fleek-site.fleek.co/"
+languageCode = "en-us"
+title = "$BANK — A Memecoin for Care"
+theme = "terminal"
+paginate = 10
+
+[params]
+  centerTheme = true
+  themeColor = "green"
+  fullWidthTheme = true
+  contentTypeName = "posts"
